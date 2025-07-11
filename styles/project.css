@@ -35,3 +35,65 @@ nav{
     margin: 0px 150px ;
     /* margin-top: 60px ; */
 }
+.button{
+    background-color : #4E47FF;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    display: inline-block;
+    white-space: nowrap;
+}
+nav h3{
+    color: #4E47FF;
+    font-size: 34px;
+}
+.cool{
+    text-align: center;
+    padding: 37px;
+   
+}
+.cool-content{
+      justify-content: center;
+      align-items: center;
+}
+.cool-title{
+    font-size: 65px;
+    margin: 100px 267px 0px ;
+    margin-top: 180px;
+}
+.bu{
+    margin-top: 37px;
+    /* margin-bottom: 50px; */
+   
+}
+/* 2nd part */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 141px;
+    gap: 220px;
+    /* max-width: 1140px; */
+    /* margin-right: 60px; */
+    padding: 0 45px;
+}
+.act-title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 23px;
+}
+.act-des{
+    color: rgba(37, 36, 50, 0.5);
+    font-size: 24px;
+    margin-right: 100px;
+    margin-bottom: 23px;
+}
+.act-pic{
+    border-radius: 48px;
+}
+.act-class{
+    margin-top: 70px;
+}
+
