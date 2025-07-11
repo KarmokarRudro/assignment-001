@@ -9,3 +9,29 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+.secondary-bg{
+    background-color: rgba(78, 71, 255, 0.1);
+}
+.header-item{
+    font-weight: 800;
+    margin-top: 60px;
+}
+.sign{
+    margin-top: 60px;
+}
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover; 
+    height: 100vh;
+    width: 100%; 
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px ;
+    /* margin-top: 60px ; */
+}
